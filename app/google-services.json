@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587273498439",
+    "firebase_url": "https://javaapp-ca790.firebaseio.com",
+    "project_id": "javaapp-ca790",
+    "storage_bucket": "javaapp-ca790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587273498439:android:6913886758dc9c5ae86662",
+        "android_client_info": {
+          "package_name": "com.sisbras.vendasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587273498439-cijefq8vaf0por7mjffqbvdl0dunjs30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sisbras.vendasapp",
+            "certificate_hash": "1d91b689f0d7c98572874f2ca93b8dd69f84e3ed"
+          }
+        },
+        {
+          "client_id": "587273498439-822kbbu01tkan4rr16c703at0iou54r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdmnxyDuy2QvKdw5vWDCYcqWFGK0NbIbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587273498439-822kbbu01tkan4rr16c703at0iou54r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
